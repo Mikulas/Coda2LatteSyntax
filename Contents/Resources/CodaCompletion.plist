@@ -5,10 +5,12 @@
   <key>Comments</key>
   <dict>
     <key>StartTag</key>
-    <string>//</string>
+    <string>{*</string>
+    <key>EndTag</key>
+    <string>*}</string>
   </dict>
 
   <key>Name</key>
-  <string>Stylus</string>
+  <string>Latte</string>
 </dict>
 </plist>

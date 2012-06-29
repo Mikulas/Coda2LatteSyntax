@@ -1,6 +1,6 @@
 /* Localized versions of Info.plist keys */
 
-CFBundleName = "Stylus";
+CFBundleName = "Latte";
 CFBundleShortVersionString = "";
-CFBundleGetInfoString = "0.1 via Tom Stoecklein/Vexea";
-NSHumanReadableCopyright = "© 2011 Tom Stoecklein. MIT License. (http://github.com/bluestrike2/stylus-mode).";
+CFBundleGetInfoString = "0.1 via Mikulas Dite";
+NSHumanReadableCopyright = "© 2012 Mikulas Dite. Original BSD License. (https://github.com/Mikulas/Coda2LatteSyntax).";
